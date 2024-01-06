@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="510" height="205.046" viewBox="0 0 510 205.046">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f46b62"/>
+      <stop offset="1" stop-color="#ffb90c"/>
+    </linearGradient>
+  </defs>
+  <g id="logo-benku-white" transform="translate(-803 -1229)">
+    <g id="logo" transform="translate(3793.925 -361.926)">
+      <path id="Path_231" data-name="Path 231" d="M-2881.86,1668.64l-55.708.143s-18.529-1.678-28.3,11.126c-6.4,8.386-9.516,57.417-15.78,85.574s-9.277,27.053-9.277,27.053,32.2,5.683,44.829-13.259,15.153-60.614,15.153-60.614h58.141s23.212,10.326,25.2,37.252-21,39.836-21,39.836,48.154-13.949,52.573-56.884-17.048-52.406-17.048-52.406,18.311-17.679,8.84-53.669-44.829-41.672-44.829-41.672-52.8-.436-54.931,0-21.625,7.734-29.676,22.73-12.2,39.53-12.2,39.53,7.957-10.169,15.7-14.148,19.23-3.758,19.23-3.758h49.08s16.409,1.973,15.3,18.575S-2881.86,1668.64-2881.86,1668.64Z" fill="#fff"/>
+      <path id="Path_232" data-name="Path 232" d="M-2872.8,1718.38s22.162,7.406,32.055,21,9.064,26.307,4.864,35.592-31.834,21-31.834,21,21.444-15.7,20.338-40.456S-2872.8,1718.38-2872.8,1718.38Z" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="benku" transform="translate(993 1346)" fill="#fff" font-size="116" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">benku</tspan></text>
+    <text id="happy_shopping" data-name="happy shopping" transform="translate(999 1391)" fill="#fff" font-size="45" font-family="Roboto-Thin, Roboto" font-weight="200"><tspan x="0" y="0">happy shopping</tspan></text>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="6" cy="6" r="6" transform="translate(873 1374)" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M918.531,1391.681s-1.829,29.191-25.386,28.617-26.158-28.617-26.158-28.617a29.647,29.647,0,0,0,4.133,14.924c3.629,5.929,11.829,9.518,22.024,10.341a29.247,29.247,0,0,0,20.971-10.341C917.755,1402.3,918.531,1391.681,918.531,1391.681Z" fill="#fff" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>
