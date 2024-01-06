@@ -20,3 +20,4 @@ using colors:
 #F46B62
 #f48b62
 
+powerd by RUI | 2024
